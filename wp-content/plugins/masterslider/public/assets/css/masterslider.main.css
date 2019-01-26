@@ -58,7 +58,7 @@
 	top:0;
 }
 
-.ms-loading-container .ms-loading,
+/* .ms-loading-container .ms-loading,
 .ms-slide .ms-slide-loading {
 	width: 36px;
 	height: 36px;
@@ -71,7 +71,7 @@
 	margin: -18px;
 	opacity: 0.9;
 }
-
+ */
 
 /* grab cursor */
 .ms-def-cursor{cursor:auto !important;}
