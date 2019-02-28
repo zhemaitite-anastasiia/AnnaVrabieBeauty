@@ -1220,7 +1220,7 @@ a.button, a.tp-button {
 }
 .button-stroke a:hover.button, .button-stroke a:hover.tp-button {
 	background-color: #f7f7f7 !important;
-	color: #fff;
+	color: #8e6739;
 }
 a.button_theme, a.tp-button.button_theme, button, input[type="submit"], input[type="reset"], input[type="button"] {
 	background-color: #8e6739;
@@ -1402,7 +1402,7 @@ a.action_button {
 	color: #bbbbbb
 }
 #Action_bar .social li a:hover, #Header_creative .social li a:hover, #Action_bar .social-menu a:hover {
-	color: #FFFFFF
+	color: #8e6739
 }
 #Subheader .title {
 	color: #fff;
@@ -1435,7 +1435,7 @@ a.action_button {
 	color: #65666C;
 }
 #Footer .footer_copy .social li a:hover, #Footer .footer_copy .social-menu a:hover {
-	color: #fff;
+	color: #8e6739;
 }
 a#back_to_top.button.button_js, #popup_contact>a.button {
 	color: #65666C;
