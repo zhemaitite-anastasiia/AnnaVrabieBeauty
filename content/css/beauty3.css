@@ -1290,6 +1290,11 @@ a.mfn-link-6:before {
 	.highlight-left .wrap:first-child, .highlight-right .wrap:last-child {
 		background: #8e6739;
 	}
+	#white{
+		height:50px;
+		width:100%;
+		color:white;
+	}
 }
 #Header .top_bar_left, .header-classic #Top_bar, .header-plain #Top_bar, .header-stack #Top_bar, .header-split #Top_bar, .header-fixed #Top_bar, .header-below #Top_bar, #Header_creative, #Top_bar #menu, .sticky-tb-color #Top_bar.is-sticky {
 	background-color: #fff;
@@ -1412,6 +1417,10 @@ a.action_button {
 }
 #Footer, #Footer .widget_recent_entries ul li a {
 	color: #818181;
+	/* position: fixed;
+        left: 0;
+        bottom: 0;
+        width: 100%; */
 }
 #Footer a {
 	color: #171a15;
@@ -1849,6 +1858,11 @@ h6 {
 		font-size: 13px;
 		line-height: 22px;
 	}
+	#white{
+		height:180px;
+		width:100%;
+		color:white;
+	}
 	#menu>ul>li>a, a.action_button, #overlay-menu ul li a {
 		font-size: 13px;
 	}
@@ -1950,6 +1964,11 @@ h6 {
 	body {
 		font-size: 13px;
 		line-height: 19px;
+	}
+	#white{
+		height:350px;
+		width:100%;
+		color:white;
 	}
 	big, .big {
 		font-size: 13px;
@@ -2263,6 +2282,11 @@ input[type="date"], input[type="email"], input[type="number"], input[type="passw
 @media only screen and max-width: 479px {
 	.the-icons.span3 {
 		width: 100%;
+	}
+	#white{
+		height:350px;
+		width:100%;
+		color:white;
 	}
 }
 .ui-tabs .ui-tabs-nav li.ui-state-active a:after, body:not(.woocommerce-page) table tr:hover td, body:not(.woocommerce-page) table tr:hover td a {
