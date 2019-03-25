@@ -1966,7 +1966,7 @@ h6 {
 		line-height: 19px;
 	}
 	#white{
-		
+		height:30px;
 		width:100%;
 		color:white;
 	}
@@ -2284,7 +2284,7 @@ input[type="date"], input[type="email"], input[type="number"], input[type="passw
 		width: 100%;
 	}
 	#white{
-		
+		height:30px;
 		width:100%;
 		color:white;
 	}
