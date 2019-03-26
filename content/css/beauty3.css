@@ -1966,7 +1966,7 @@ h6 {
 		line-height: 19px;
 	}
 	#white{
-		height:200px;
+		height:230px;
 		width:100%;
 		color:white;
 	}
@@ -2086,6 +2086,30 @@ h6 {
 .aside_both .sections_group {
 	width: 64%;
 	margin-left: 18%;
+}
+@media only screen and (max-width: 375px) {
+	
+	#white{
+		height:350px;
+		width:100%;
+		color:white;
+	}
+}
+@media only screen and (max-width: 360px) {
+	
+	#white{
+		height:200px;
+		width:100%;
+		color:white;
+	}
+}
+@media only screen and (max-width: 320px) {
+	
+	#white{
+		height:150px;
+		width:100%;
+		color:white;
+	}
 }
 @media only screen and (min-width:1240px) {
 	.section_wrapper, .container {
